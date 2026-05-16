@@ -1,9 +1,13 @@
+# Nicholas (Nick) Smith
+
 ## Hi there 👋
 
-This is the official public GitHub profile for Nicholas (Nick) Smith, MS Student at Brigham Young University.
+This is the official public GitHub profile for Nick Smith. 
 
-<a href="https://www.linkedin.com/in/nick-smith-byu" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Nicholas (Nick) Smith LinkedIn Profile"/>
-</a>
+## About Me
+* MS Student in CS at Brigham Young University.
+* Grad Certificate Student in Robotics Engineering at \
+  Worcester Polytechnic Institute.
+* [CV/Resume](https://n-smith-byu.github.io/n-smith-byu/CV_Nicholas_Smith.pdf)
 
 ___
