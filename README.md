@@ -9,6 +9,8 @@ This is the official public GitHub profile for Nick Smith.
 * Graduate Certificate Student in Robotics Engineering at \
   Worcester Polytechnic Institute.
 
+* [`CV/Resume`](https://n-smith-byu.github.io/n-smith-byu/CV_Full_Nicholas_Smith.pdf)
+
 ## Projects
 
 #### NLP
