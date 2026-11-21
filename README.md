@@ -30,4 +30,4 @@ This is the official public GitHub profile for Nick Smith.
 * [`GitHub`](https://github.com/n-smith-byu)
 * [`WayUp`](https://www.wayup.com/profile/Nicholas-Smith-79e44d6b87/)
 * [`ORCID`](https://orcid.org/0009-0009-8621-6710)
-* [`CV/Resume`](https://n-smith-byu.github.io/n-smith-byu/CV_Nicholas_Smith.pdf)
+* [`CV/Resume`](https://n-smith-byu.github.io/n-smith-byu/CV_Full_Nicholas_Smith.pdf)
